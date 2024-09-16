@@ -40,4 +40,5 @@ public class Graph {
         g.addEdge(g.getVertices().get(1), g.getVertices().get(2));
         return g;
     }
+
 }
